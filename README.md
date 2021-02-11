@@ -40,13 +40,16 @@ The images below were obtained using a combination of the Excel Pivot Tables and
 
 #### What did the local employment environment look like in the DMV and Los Angeles County areas in the years covered in the dataset?
 
-Here we can see that two-year public and private higher education institutions make up most of the volume of colleges in the US, followed by "selective private" and "selective public" schools. As we might expect, there are very few "Ivy Plus" schools \(highly selective and highly ranked\), "other elite" schools \(including Johns Hopkins\), and "highly selective" public and private schools \(perhaps less than one per state\). This gives us an idea of the type of quantitative impact that education or admissions reform might have based on what type of institutions the reform focuses on.
+The histograms linked above indicate that employment rates were concentrated around the (.7516, .7896) and (.7896, .8276) bands for the DMV region. In other words, most cities/counties/localities had employment rates for hispanic individuals that fell within this range. The histogram with Los Angeles's employment rates appears to tell a similar story, with most data points falling within the .7543, .7683) and (.7683, .7823) ranges. Taking an aerial view of the data, it appears that both data sets offer similar means, although the LA dataset appears to display considerably more variation, as discussed below.
+
 
 #### Which geographic location appears to display the greater spread (variance) in employment outcomes for Hispanic individuals?
 
-Here we see almost an opposite type of distribution--the highly selective private schools have the highest sticker price, and the two-year not-for-profit institutions have the lowest sticker price. We should also note that the sticker price also does not necessarily reflect the price that students need to pay to attend the institution, however, it can give us insight into the type of students who attend those schools and who don't receive financial aid. Additionally, highly selective public schools have a significantly lower sticker price than their peer institutions, so this may indicate that students could get a better "bang for their buck" here if the student outcomes are similar to peer institutions. 
+As briefly mentioned above, the LA distrubution appears to offer a much wider range of potential values. The lowest data point falls below .4 while the highest falls in a band with a lower bound of .95. Also worth noting is the normality of the distribution and apparent lack of skew in either direction. Kurtosis (tail thickness) appears to be highest in the DMV distribution. 
 
 #### Which region, if either, offers  better employment prospects for individuals of Hispanic ancestry?
 
-We can also look at the average income distribution at the different higher education tiers where Q1 indicates families in the lowest income quintile and Q5 indicates families in the highest income quintile. We can see that the income distribution starts to even out when we look at nonselective four-year colleges and that elite and other highly selective institutions are predominantly filled with students from the highest income quintile.
+Based on the graphs and subsequent analysis, the LA county area appears to offer slightly better employment prospects for individuals of hispanic descent. This is because the mean employment rate is higher,and because there is a higher concentration of values around the mean, despite the distribution having the greater overall range.
 
+## Data Interpretation
+The data appears to suggest that LA county offers better employment prospects for individuals of hispanic descent. The analysis should be qualified by the fact that a variety of confounding variables may be impacting the findings, and employment rates alone do not categorically define the quality of employment or say anything about income, quality of life, happiness, etc. 
