@@ -53,3 +53,16 @@ Based on the graphs and subsequent analysis, the LA county area appears to offer
 
 ## Data Interpretation
 The data appears to suggest that LA county offers better employment prospects for individuals of hispanic descent. The analysis should be qualified by the fact that a variety of confounding variables may be impacting the findings, and employment rates alone do not categorically define the quality of employment or say anything about income, quality of life, happiness, etc. I think in-depth statistical and graphical analyses of important social and economic outcomes are and will become increasingly important, and provide a useful metric of comparison by which to analyze progress, performance, and effectiveness of a variety of political policies and governmental initialtives.
+
+## Step-by-step Instructions for Excel Data Analysis
+
+Step 1: Access The Opportunity Atlas Database
+Step 2: Filter search results according to region of interest and population demographics
+Step 3: Download files to computer - files saved as CSV
+Step 4: Transfer data to Excel
+Step 5: Use table feature in the insert tab to create tables with data
+Step 6: Click Pivot Tables and create Pivot Tables on a separate sheet in workbook
+Step 7: Drag and drop names to rows field and employment rates to values field
+Step 8: Change value field settings from sum of values to average of values
+Step 9: Create histogram using integrated histogram feature
+Step 10: Label chart axes, titles, formats, etc. 
