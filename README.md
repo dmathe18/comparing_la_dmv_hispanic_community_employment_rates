@@ -26,10 +26,9 @@ We'l use open data from the following source:
 
 We’ll use Microsoft Excel to answer:
 
-* **What did the US college landscape look like in 2000 and 2013?** Exploring general college data regarding enrollment, sticker price, expenditures, and other related metrics per university "tier" or ranking
-* **How do parents’ and kids’ income data relate college tier?** Exploring the relationship between income distributions of students/parents entering colleges at different types of higher education institutions
-* **How do colleges contribute to social mobility?** Exploring how students' income distribution changes when they are around the age of 35 \(likely earning a stable income instead of in between jobs or in graduate school\)
-* **Is 'percentage of Pell-eligible students' a good metric to define student income diversity? What other metrics should JHU monitor to continue to develop a more robust student body and subsequent alumni network?** Exploring specific metrics related to Pell grant recipients to see how colleges can use this percentage--or other--metric\(s\)--to measure their social mobility impact 
+* **What did the local employment environment look like in the DMV and Los Angeles County areas in the years covered in the dataset?** Obtaining a birds-eye view of the employment landscape for the Hispanic community using Excel Pivot Tables and labeled histograms.
+* **Which geographic location appears to display the greater spread (variance) in employment outcomes for Hispanic individuals?** Analyzing the visualizations for statistical insights such as variance, range, skew, kurtosis, etc.
+* **Which region, if either, offers  better employment prospects for individuals of Hispanic ancestry?** Quantitative comparative analysis of the employment rate distributions for both geographical regions.
 
 ## Data Answer
 
@@ -64,5 +63,3 @@ To understand more about how colleges contribute to social mobility, we can comp
 ![](.gitbook/assets/q1_q2_pell_college_data.png)
 
 While President Daniels mentions "Pell-eligible" students as a metric for Johns Hopkins to measure their  students' socioeconomic diversity, we may want to explore what this looks like in terms of Pell Grant recipients at institutions to gain some insight into the type of financial support that low income students receive to attend these institutions. [Pell eligibility](https://www.usnews.com/education/best-colleges/paying-for-college/articles/everything-you-need-to-know-about-the-pell-grant) is based on several factors including students' and parents' income and college cost and full-time vs. part-time status. Pell Grants are not the only kind of financial aid that students can receive, however, this could give us insight into how much support students have at different institutions compared to the distribution of the lowest two income quintiles. What else could the Pell recipient data tell us about the institution?
-
-## Business Answer
