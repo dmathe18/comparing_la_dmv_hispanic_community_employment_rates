@@ -28,7 +28,7 @@ We’ll use Microsoft Excel to answer:
 
 * **What did the local employment environment look like in the DMV and Los Angeles County areas in the years covered in the dataset?** Obtaining a birds-eye view of the employment landscape for the Hispanic community using Excel Pivot Tables and labeled histograms.
 * **Which geographic location appears to display the greater spread (variance) in employment outcomes for Hispanic individuals?** Analyzing the visualizations for statistical insights such as variance, range, skew, kurtosis, etc.
-* **Which region, if either, offers  better employment prospects for individuals of Hispanic ancestry?** Quantitative comparative analysis of the employment rate distributions for both geographical regions.
+* **Which region, if either, offers  better employment prospects for individuals of Hispanic ancestry?** Quantitative comparative analysis of the employment rate distributions for both geographical regions.s
 
 ## Data Answer
 
