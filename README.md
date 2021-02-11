@@ -1,9 +1,11 @@
 # comparing_la_dmv_hispanic_community_employment_rates
 This repository contains original data, Excel analyses, and data visualizations of employment data from the Los Angeles and DMV areas for individuals of hispanic decent.
 
-# Interpreting Colleges’ Roles in Social Mobility Based on Student and Family Demographics and College
+# Comparative Analysis of Employment Outcomes for Individuals of Hispanic Descent in Los Angeles and the DMV Area
 
 ## Background
+With the U.S. hispanic population [on track to grow 86%](https://www.brookings.edu/blog/the-avenue/2018/03/14/the-us-will-become-minority-white-in-2045-census-projects/) in the next four decades, the impetus for data-driven analyses of employment outcomes among the Hispanic population has never been greater.
+
 
 Johns Hopkins University President Ron Daniels recently [published an article](https://www.theatlantic.com/ideas/archive/2020/01/why-we-ended-legacy-admissions-johns-hopkins/605131/?utm_source=feed) in The Atlantic earlier this month \(January 2020\) announcing that Johns Hopkins now has more Pell grant-eligible students than Johns Hopkins legacy students after eliminating legacy favorability from the admissions process in 2014. Daniels cites a few research studies that illustrate how a university legacy system can hinder top universities from matriculating a more diverse student body, and, therefore, that JHU’s new policy underlines their commitment to promoting social mobility and granting broader education opportunities to minority, low-income, and other underrepresented groups.
 
