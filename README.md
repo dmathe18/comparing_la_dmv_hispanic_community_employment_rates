@@ -36,21 +36,17 @@ The images below were obtained using a combination of the Excel Pivot Tables and
 
 ![alt text](https://github.com/dmathe18/comparing_la_dmv_hispanic_community_employment_rates/blob/main/DMV_histogram.png)
 
-#### What did the local employment environment look like in the DMV and Los Angeles County areas in the years covered in the dataset?
+![alt text](https://github.com/dmathe18/comparing_la_dmv_hispanic_community_employment_rates/blob/main/LA_histogram.png)
 
-![](.gitbook/assets/university-tier-counts.png)
+#### What did the local employment environment look like in the DMV and Los Angeles County areas in the years covered in the dataset?
 
 Here we can see that two-year public and private higher education institutions make up most of the volume of colleges in the US, followed by "selective private" and "selective public" schools. As we might expect, there are very few "Ivy Plus" schools \(highly selective and highly ranked\), "other elite" schools \(including Johns Hopkins\), and "highly selective" public and private schools \(perhaps less than one per state\). This gives us an idea of the type of quantitative impact that education or admissions reform might have based on what type of institutions the reform focuses on.
 
 #### Which geographic location appears to display the greater spread (variance) in employment outcomes for Hispanic individuals?
 
-![](.gitbook/assets/final-chart.png)
-
 Here we see almost an opposite type of distribution--the highly selective private schools have the highest sticker price, and the two-year not-for-profit institutions have the lowest sticker price. We should also note that the sticker price also does not necessarily reflect the price that students need to pay to attend the institution, however, it can give us insight into the type of students who attend those schools and who don't receive financial aid. Additionally, highly selective public schools have a significantly lower sticker price than their peer institutions, so this may indicate that students could get a better "bang for their buck" here if the student outcomes are similar to peer institutions. 
 
 #### Which region, if either, offers  better employment prospects for individuals of Hispanic ancestry?
-
-![](.gitbook/assets/parent_income_dist_by_tier.png)
 
 We can also look at the average income distribution at the different higher education tiers where Q1 indicates families in the lowest income quintile and Q5 indicates families in the highest income quintile. We can see that the income distribution starts to even out when we look at nonselective four-year colleges and that elite and other highly selective institutions are predominantly filled with students from the highest income quintile.
 
