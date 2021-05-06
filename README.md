@@ -59,21 +59,12 @@ This analysis was of particular importance to me and my career path in that invo
 ## Step-by-step Instructions for Excel Data Analysis
 
 Step 1: Access The Opportunity Atlas Database
-
 Step 2: Filter search results according to region of interest and population demographics
-
 Step 3: Download files to computer - files saved as CSV
-
 Step 4: Transfer data to Excel
-
 Step 5: Use table feature in the insert tab to create tables with data
-
 Step 6: Click Pivot Tables and create Pivot Tables on a separate sheet in workbook
-
 Step 7: Drag and drop names to rows field and employment rates to values field
-
 Step 8: Change value field settings from sum of values to average of values
-
 Step 9: Create histogram using integrated histogram feature
-
-Step 10: Label chart axes, titles, formats, etc. 
+Step 10: Label chart axes, titles, formats, etc.
