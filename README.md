@@ -34,9 +34,9 @@ We’ll use Microsoft Excel to answer:
 
 The images below were obtained using a combination of the Excel Pivot Tables and histogram chart features:
 
-![alt text](https://github.com/dmathe18/comparing_la_dmv_hispanic_community_employment_rates/blob/main/DMV_histogram.png)
+![alt text](https://github.com/dmathe18/comparing_la_dmv_hispanic_community_employment_rates/blob/main/DMV_employment_histogram.png)
 
-![alt text](https://github.com/dmathe18/comparing_la_dmv_hispanic_community_employment_rates/blob/main/LA_histogram.png)
+![alt text](https://github.com/dmathe18/comparing_la_dmv_hispanic_community_employment_rates/blob/main/LA_employment_histogram.png)
 
 #### What did the local employment environment look like in the DMV and Los Angeles County areas in the years covered in the dataset?
 
